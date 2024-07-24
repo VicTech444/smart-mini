@@ -1,0 +1,1 @@
+# SmartMini Wordpress Website
